@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @agy3ya
 - 👀 I’m interested in Android Development  
-- 🌱 I’m currently learning React   
+- 🌱 I’m currently learning Ios  
 - 💞️ I’m looking to collaborate on Android Project
-- 📫 How to reach me at: Discord. 
+- 📫 How to reach me at: Discord.
 
 <!---
 agy3ya/agy3ya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
