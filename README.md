@@ -33,6 +33,8 @@
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=corin8823&theme=radical)  
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio%20-%23FF0000.svg?&style=flat&logo=Website&logoColor=white"/></a> &nbsp;
